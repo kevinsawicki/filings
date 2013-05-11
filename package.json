@@ -29,7 +29,7 @@
     "url": "https://github.com/kevinsawicki/filings/issues"
   },
   "scripts": {
-    "prepublish": "grunt",
+    "prepublish": "grunt publish",
     "test": "jasmine-focused --captureExceptions --coffee spec/"
   },
   "devDependencies": {
