@@ -1,5 +1,5 @@
 path = require 'path'
-TenK = require '../lib/ten-k'
+{TenK} = require '../lib/filings'
 
 describe '10-K', ->
   describe '.getProfit(year)', ->
