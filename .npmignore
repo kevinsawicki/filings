@@ -1,0 +1,4 @@
+.npmignore
+*.coffee
+.DS_Store
+*.log
