@@ -1,4 +1,4 @@
-# Filings
+# filings [![Build Status](https://travis-ci.org/kevinsawicki/filings.png)](https://travis-ci.org/kevinsawicki/filings)
 
 Node module for downloading and querying SEC filings.
 
