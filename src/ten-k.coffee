@@ -15,13 +15,18 @@ class TenK
   constructor: (@contents) ->
     @document = new DOMParser().parseFromString(@contents)
 
+  select: (element) ->
+    nodes = []
+    for node in xpath.select("//*[local-name() = '#{element}']", @document)
+      nodes.push(node) if node.prefix is 'us-gaap'
+    nodes
+
   getProfit: (year) ->
-    nodes = xpath.select("//*[local-name() = 'NetIncomeLoss']", @document)
+    nodes = @select('NetIncomeLoss')
     if nodes.length is 0
-      nodes = xpath.select("//*[local-name() = 'NetIncomeLossAvailableToCommonStockholdersBasic']", @document)
+      nodes = @select('NetIncomeLossAvailableToCommonStockholdersBasic')
     netIncomeLoss = 0
     for node in nodes
-      continue unless node.prefix is 'us-gaap'
       nodeYear = dates.getYear(xpath.select("@contextRef", node)[0]?.value)
       nodeNetIncomeLoss = parseFloat(node.firstChild.data)
       continue if isNaN(nodeNetIncomeLoss)
