@@ -23,10 +23,15 @@ class TenK
       day = 24 * 60 *(1000 * 60)
       days = (toDate - fromDate) / day
       return new Date(toDate).getFullYear() if 300 < days < 400
+    else if match = dateRange.match(/^d(\d{4})$/i)
+      year = parseInt(match[1])
+      return year unless isNaN(year)
     -1
 
   getProfit: (year) ->
     nodes = xpath.select("//*[local-name() = 'NetIncomeLoss']", @document)
+    if nodes.length is 0
+      nodes = xpath.select("//*[local-name() = 'NetIncomeLossAvailableToCommonStockholdersBasic']", @document)
     netIncomeLoss = 0
     for node in nodes
       continue unless node.prefix is 'us-gaap'
