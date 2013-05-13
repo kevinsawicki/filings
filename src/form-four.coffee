@@ -21,7 +21,10 @@ class FormFour
     shares = parseInt(xpath.select('transactionAmounts/transactionShares/value/text()', transactionNode).toString())
     return null if isNaN(shares)
 
-    price = parseFloat(xpath.select('transactionAmounts/transactionPricePerShare/value/text()', transactionNode).toString())
+    if xpath.select('transactionAmounts/transactionPricePerShare/value', transactionNode).length is 1
+      price = parseFloat(xpath.select('transactionAmounts/transactionPricePerShare/value/text()', transactionNode).toString())
+    else
+      price = 0
     return null if isNaN(price)
 
     cost = shares * price
