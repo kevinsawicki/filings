@@ -3,7 +3,7 @@ xpath = require 'xpath'
 request = require 'request'
 
 module.exports =
-  getTransactions: (cik, type, callback) ->
+  fetch: (cik, type, callback) ->
     baseUrl = process.env.SEC_EDGAR_URL ? 'http://www.sec.gov/cgi-bin/browse-edgar'
     url = "#{baseUrl}?action=getcompany&output=atom&start=0&count=1000&CIK=#{cik}&type=#{type}"
     url = "#{url}&owner=only"if parseInt(type) is 4

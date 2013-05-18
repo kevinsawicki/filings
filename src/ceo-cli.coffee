@@ -38,7 +38,7 @@ module.exports =
     else if options.argv.h
       options.showHelp()
     else if cik
-      Transactions.getTransactions cik, 4, (error, transactions) ->
+      Transactions.fetch cik, 4, (error, transactions) ->
         if error?
           console.error(error)
           process.exit(1)

@@ -4,7 +4,7 @@ express = require 'express'
 transactions = require '../lib/transactions'
 
 describe 'transactions', ->
-  describe 'getTransaction()', ->
+  describe 'fetch()', ->
     server = null
 
     beforeEach ->
@@ -21,7 +21,7 @@ describe 'transactions', ->
 
     it 'calls back with an array of transactions', ->
       callback = jasmine.createSpy('callback')
-      transactions.getTransactions(123, 4, callback)
+      transactions.fetch(123, 4, callback)
       waitsFor -> callback.callCount is 1
       runs ->
         error = callback.mostRecentCall.args[0]
