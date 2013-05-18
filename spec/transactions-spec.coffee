@@ -30,5 +30,5 @@ describe 'transactions', ->
         expect(transactions.length).toBe 63
         expect(transactions[0].date.getTime()).toBe 1359988200000
         expect(transactions[0].cik).toBe 1214156
-        expect(transactions[0].id).toBe 112760213004083
+        expect(transactions[0].id).toBe '000112760213004083'
         expect(transactions[0].type).toBe '4'

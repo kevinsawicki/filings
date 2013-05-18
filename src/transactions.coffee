@@ -6,6 +6,7 @@ module.exports =
   getTransactions: (cik, type, callback) ->
     baseUrl = process.env.SEC_EDGAR_URL ? 'http://www.sec.gov/cgi-bin/browse-edgar'
     url = "#{baseUrl}?action=getcompany&output=atom&start=0&count=1000&CIK=#{cik}&type=#{type}"
+
     request url, (error, response, body) ->
       if error?
         callback(error)
@@ -17,7 +18,7 @@ module.exports =
           filingDate = xpath.select('filing-date/text()', transaction).toString()
           date = new Date("#{filingDate} 14:30:00 GMT")
           accessionNumber = xpath.select('accession-nunber/text()', transaction).toString()
-          id = parseInt(accessionNumber.replace(/-/g, ''))
+          id = accessionNumber.replace(/-/g, '')
           type = xpath.select('filing-type/text()', transaction).toString()
           transactions.push({date, cik, id, type})
         callback(null, transactions)
