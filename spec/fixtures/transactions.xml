@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <email>webmaster@sec.gov</email>
+    <name>Webmaster</name>
+  </author>
+  <company-info>
+    <addresses>
+      <address type="mailing">
+        <city>CUPERTINO</city>
+        <state>CA</state>
+        <street1>C/O APPLE INC</street1>
+        <street2>C/O APPLE INC</street2>
+        <zip>95014</zip>
+      </address>
+      <address type="business" />
+    </addresses>
+    <cik>0001214156</cik>
+    <cik-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001214156&amp;owner=only&amp;count=100</cik-href>
+    <conformed-name>COOK TIMOTHY D</conformed-name>
+  </company-info>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001127602-13-004083</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2013-02-04</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000112760213004083/0001127602-13-004083-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>13571503</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>4 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001127602-13-004083</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000112760213004083/0001127602-13-004083-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2013-02-04 &lt;b&gt;AccNo:&lt;/b&gt; 0001127602-13-004083 &lt;b&gt;Size:&lt;/b&gt; 4 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2013-02-04T18:37:54-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-12-000142</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2012-09-24</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018712000142/0000320187-12-000142-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>121107470</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>6 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-12-000142</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018712000142/0000320187-12-000142-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2012-09-24 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-12-000142 &lt;b&gt;Size:&lt;/b&gt; 6 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2012-09-24T18:27:33-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-12-019840</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2012-03-27</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143112019840/0001181431-12-019840-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>12718484</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>31 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-12-019840</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143112019840/0001181431-12-019840-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2012-03-27 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-12-019840 &lt;b&gt;Size:&lt;/b&gt; 31 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2012-03-27T20:54:52-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-12-016500</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2012-03-12</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143112016500/0001181431-12-016500-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>12685409</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>18 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-12-016500</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143112016500/0001181431-12-016500-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2012-03-12 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-12-016500 &lt;b&gt;Size:&lt;/b&gt; 18 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2012-03-12T19:01:28-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-12-005460</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2012-02-02</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143112005460/0001181431-12-005460-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>12567523</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>4 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-12-005460</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143112005460/0001181431-12-005460-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2012-02-02 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-12-005460 &lt;b&gt;Size:&lt;/b&gt; 4 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2012-02-02T19:05:50-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-11-000124</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2011-09-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018711000124/0000320187-11-000124-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>111099091</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-11-000124</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018711000124/0000320187-11-000124-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2011-09-20 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-11-000124 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2011-09-20T13:41:44-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-11-047180</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2011-08-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143111047180/0001181431-11-047180-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>111060648</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-11-047180</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143111047180/0001181431-11-047180-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2011-08-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-11-047180 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2011-08-26T17:08:53-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-11-017983</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2011-03-14</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143111017983/0001181431-11-017983-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>11686870</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>16 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-11-017983</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143111017983/0001181431-11-017983-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2011-03-14 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-11-017983 &lt;b&gt;Size:&lt;/b&gt; 16 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2011-03-14T20:01:11-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-11-007305</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2011-02-03</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143111007305/0001181431-11-007305-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>11572257</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>9 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-11-007305</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143111007305/0001181431-11-007305-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2011-02-03 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-11-007305 &lt;b&gt;Size:&lt;/b&gt; 9 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2011-02-03T20:31:47-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-10-000198</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2010-12-27</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018710000198/0000320187-10-000198-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>101273648</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>8 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-10-000198</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018710000198/0000320187-10-000198-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2010-12-27 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-10-000198 &lt;b&gt;Size:&lt;/b&gt; 8 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2010-12-27T10:30:46-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-10-047835</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2010-09-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143110047835/0001181431-10-047835-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>101087446</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-10-047835</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143110047835/0001181431-10-047835-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2010-09-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-10-047835 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2010-09-23T17:52:59-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-10-000121</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2010-09-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018710000121/0000320187-10-000121-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>101082983</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-10-000121</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018710000121/0000320187-10-000121-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2010-09-21 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-10-000121 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2010-09-21T16:50:10-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-10-040666</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2010-08-05</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143110040666/0001181431-10-040666-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>10996006</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-10-040666</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143110040666/0001181431-10-040666-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2010-08-05 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-10-040666 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2010-08-05T20:02:52-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-10-030846</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2010-06-02</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143110030846/0001181431-10-030846-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>10873625</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>4 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-10-030846</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143110030846/0001181431-10-030846-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2010-06-02 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-10-030846 &lt;b&gt;Size:&lt;/b&gt; 4 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2010-06-02T17:12:31-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-10-018242</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2010-03-25</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143110018242/0001181431-10-018242-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>10705691</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>18 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-10-018242</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143110018242/0001181431-10-018242-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2010-03-25 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-10-018242 &lt;b&gt;Size:&lt;/b&gt; 18 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2010-03-25T20:06:31-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-10-016055</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2010-03-12</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143110016055/0001181431-10-016055-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>10678268</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-10-016055</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143110016055/0001181431-10-016055-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2010-03-12 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-10-016055 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2010-03-12T16:40:02-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-09-000135</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2009-10-06</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018709000135/0000320187-09-000135-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>091108972</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-09-000135</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018709000135/0000320187-09-000135-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2009-10-06 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-09-000135 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2009-10-06T18:24:25-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-09-033906</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2009-07-02</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143109033906/0001181431-09-033906-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>09928546</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-09-033906</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143109033906/0001181431-09-033906-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2009-07-02 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-09-033906 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2009-07-02T17:30:05-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-054629</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-09-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108054629/0001181431-08-054629-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>081092323</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-054629</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108054629/0001181431-08-054629-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-09-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-054629 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-09-26T20:34:03-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-08-000101</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-09-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018708000101/0000320187-08-000101-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>081084407</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-08-000101</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018708000101/0000320187-08-000101-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-09-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-08-000101 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-09-23T15:12:05-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021474</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021474/0001181431-08-021474-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713400</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>19 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021474</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021474/0001181431-08-021474-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021474 &lt;b&gt;Size:&lt;/b&gt; 19 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:45:09-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021473</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021473/0001181431-08-021473-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713397</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>45 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021473</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021473/0001181431-08-021473-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021473 &lt;b&gt;Size:&lt;/b&gt; 45 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:43:07-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021472</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021472/0001181431-08-021472-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713396</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>45 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021472</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021472/0001181431-08-021472-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021472 &lt;b&gt;Size:&lt;/b&gt; 45 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:42:31-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021471</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021471/0001181431-08-021471-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713392</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>45 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021471</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021471/0001181431-08-021471-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021471 &lt;b&gt;Size:&lt;/b&gt; 45 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:40:56-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021470</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021470/0001181431-08-021470-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713391</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>45 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021470</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021470/0001181431-08-021470-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021470 &lt;b&gt;Size:&lt;/b&gt; 45 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:40:01-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021469</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021469/0001181431-08-021469-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713390</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>45 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021469</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021469/0001181431-08-021469-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021469 &lt;b&gt;Size:&lt;/b&gt; 45 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:39:23-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021468</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021468/0001181431-08-021468-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713388</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>44 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021468</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021468/0001181431-08-021468-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021468 &lt;b&gt;Size:&lt;/b&gt; 44 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:37:32-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021467</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021467/0001181431-08-021467-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713386</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>44 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021467</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021467/0001181431-08-021467-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021467 &lt;b&gt;Size:&lt;/b&gt; 44 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:35:44-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-08-021466</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2008-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143108021466/0001181431-08-021466-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>08713385</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>47 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-08-021466</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143108021466/0001181431-08-021466-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2008-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-08-021466 &lt;b&gt;Size:&lt;/b&gt; 47 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2008-03-26T21:35:02-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-07-000198</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2007-09-19</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018707000198/0000320187-07-000198-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>071125082</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-07-000198</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018707000198/0000320187-07-000198-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2007-09-19 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-07-000198 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2007-09-19T16:52:59-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-06-000132</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2006-09-18</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018706000132/0000320187-06-000132-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>061096141</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-06-000132</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018706000132/0000320187-06-000132-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2006-09-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-06-000132 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2006-09-18T16:49:14-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-06-020293</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2006-03-28</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143106020293/0001181431-06-020293-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>06716289</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>30 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-06-020293</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143106020293/0001181431-06-020293-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2006-03-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-06-020293 &lt;b&gt;Size:&lt;/b&gt; 30 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2006-03-28T18:19:01-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-06-020292</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2006-03-28</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143106020292/0001181431-06-020292-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>06716288</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-06-020292</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143106020292/0001181431-06-020292-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2006-03-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-06-020292 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2006-03-28T18:18:35-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-06-020291</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2006-03-28</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143106020291/0001181431-06-020291-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>06716287</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-06-020291</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143106020291/0001181431-06-020291-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2006-03-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-06-020291 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2006-03-28T18:18:19-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-06-020290</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2006-03-28</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143106020290/0001181431-06-020290-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>06716286</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-06-020290</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143106020290/0001181431-06-020290-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2006-03-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-06-020290 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2006-03-28T18:17:52-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-06-020289</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2006-03-28</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143106020289/0001181431-06-020289-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>06716285</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-06-020289</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143106020289/0001181431-06-020289-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2006-03-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-06-020289 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2006-03-28T18:17:25-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-067466</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-12-16</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105067466/0001181431-05-067466-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>051271059</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-067466</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105067466/0001181431-05-067466-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-12-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-067466 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-12-16T19:58:15-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0000320187-05-000158</accession-nunber>
+      <act>34</act>
+      <file-number>001-10635</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-10635&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-11-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000032018705000158/0000320187-05-000158-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>051218527</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>6 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0000320187-05-000158</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000032018705000158/0000320187-05-000158-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-11-21 &lt;b&gt;AccNo:&lt;/b&gt; 0000320187-05-000158 &lt;b&gt;Size:&lt;/b&gt; 6 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-11-21T16:47:57-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003945</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003945/0001181431-05-003945-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539490</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>23 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003945</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003945/0001181431-05-003945-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003945 &lt;b&gt;Size:&lt;/b&gt; 23 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:22:50-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003944</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003944/0001181431-05-003944-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539486</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003944</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003944/0001181431-05-003944-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003944 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:22:18-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003942</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003942/0001181431-05-003942-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539480</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003942</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003942/0001181431-05-003942-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003942 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:21:29-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003941</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003941/0001181431-05-003941-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539472</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003941</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003941/0001181431-05-003941-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003941 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:20:34-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003940</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003940/0001181431-05-003940-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539465</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003940</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003940/0001181431-05-003940-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003940 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:19:47-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003938</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003938/0001181431-05-003938-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539457</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003938</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003938/0001181431-05-003938-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003938 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:19:04-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003937</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003937/0001181431-05-003937-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539450</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003937</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003937/0001181431-05-003937-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003937 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:18:22-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-05-003935</accession-nunber>
+      <act>34</act>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2005-01-20</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143105003935/0001181431-05-003935-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>05539443</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-05-003935</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143105003935/0001181431-05-003935-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2005-01-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-05-003935 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2005-01-20T17:17:37-05:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022564</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-27</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022564/0001181431-04-022564-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04758244</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>33 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022564</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022564/0001181431-04-022564-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-27 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022564 &lt;b&gt;Size:&lt;/b&gt; 33 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-27T19:16:08-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022563</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-27</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022563/0001181431-04-022563-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04758239</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>48 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022563</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022563/0001181431-04-022563-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-27 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022563 &lt;b&gt;Size:&lt;/b&gt; 48 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-27T19:15:29-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022100</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022100/0001181431-04-022100-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04752353</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>48 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022100</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022100/0001181431-04-022100-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022100 &lt;b&gt;Size:&lt;/b&gt; 48 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-23T19:23:59-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022099</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022099/0001181431-04-022099-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04752352</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>53 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022099</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022099/0001181431-04-022099-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022099 &lt;b&gt;Size:&lt;/b&gt; 53 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-23T19:23:22-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022097</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022097/0001181431-04-022097-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04752351</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022097</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022097/0001181431-04-022097-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022097 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-23T19:22:52-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022096</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022096/0001181431-04-022096-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04752350</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>48 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022096</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022096/0001181431-04-022096-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022096 &lt;b&gt;Size:&lt;/b&gt; 48 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-23T19:21:58-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022095</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022095/0001181431-04-022095-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04752348</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>48 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022095</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022095/0001181431-04-022095-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022095 &lt;b&gt;Size:&lt;/b&gt; 48 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-23T19:21:26-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022094</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022094/0001181431-04-022094-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04752346</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>48 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022094</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022094/0001181431-04-022094-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022094 &lt;b&gt;Size:&lt;/b&gt; 48 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-23T19:20:31-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-022093</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-23</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104022093/0001181431-04-022093-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04752344</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-022093</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104022093/0001181431-04-022093-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-022093 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-23T19:20:02-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-021664</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104021664/0001181431-04-021664-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04746495</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>23 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-021664</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104021664/0001181431-04-021664-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-021664 &lt;b&gt;Size:&lt;/b&gt; 23 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-21T19:17:13-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-021663</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104021663/0001181431-04-021663-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04746494</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>53 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-021663</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104021663/0001181431-04-021663-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-021663 &lt;b&gt;Size:&lt;/b&gt; 53 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-21T19:16:16-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-021661</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104021661/0001181431-04-021661-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04746493</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-021661</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104021661/0001181431-04-021661-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-021661 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-21T19:15:19-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-021659</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104021659/0001181431-04-021659-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04746491</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>53 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-021659</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104021659/0001181431-04-021659-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-021659 &lt;b&gt;Size:&lt;/b&gt; 53 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-21T19:14:05-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-021654</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104021654/0001181431-04-021654-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04746489</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>53 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-021654</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104021654/0001181431-04-021654-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-021654 &lt;b&gt;Size:&lt;/b&gt; 53 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-21T19:13:20-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-021649</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104021649/0001181431-04-021649-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04746487</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-021649</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104021649/0001181431-04-021649-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-021649 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-21T19:12:19-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-021646</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-04-21</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104021646/0001181431-04-021646-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04746485</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>51 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-021646</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104021646/0001181431-04-021646-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-021646 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-04-21T19:11:31-04:00</updated>
+  </entry>
+  <entry>
+    <category label="form type" scheme="http://www.sec.gov/" term="4" />
+    <content type="text/xml">
+      <accession-nunber>0001181431-04-017700</accession-nunber>
+      <file-number>000-10030</file-number>
+      <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=only&amp;count=100</file-number-href>
+      <filing-date>2004-03-26</filing-date>
+      <filing-href>http://www.sec.gov/Archives/edgar/data/1214156/000118143104017700/0001181431-04-017700-index.htm</filing-href>
+      <filing-type>4</filing-type>
+      <film-number>04693562</film-number>
+      <form-name>Statement of changes in beneficial ownership of securities</form-name>
+      <size>5 KB</size>
+    </content>
+    <id>urn:tag:sec.gov,2008:accession-number=0001181431-04-017700</id>
+    <link href="http://www.sec.gov/Archives/edgar/data/1214156/000118143104017700/0001181431-04-017700-index.htm" rel="alternate" type="text/html" />
+    <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2004-03-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001181431-04-017700 &lt;b&gt;Size:&lt;/b&gt; 5 KB</summary>
+    <title>4  - Statement of changes in beneficial ownership of securities</title>
+    <updated>2004-03-26T16:58:08-05:00</updated>
+  </entry>
+  <id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001214156</id>
+  <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001214156&amp;type=4&amp;owner=only&amp;start=0&amp;count=100" rel="alternate" type="text/html" />
+  <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001214156&amp;type=4&amp;owner=only&amp;start=0&amp;count=100&amp;output=atom" rel="self" type="application/atom+xml" />
+  <title>COOK TIMOTHY D  (0001214156)</title>
+  <updated>2013-05-18T11:54:03-04:00</updated>
+</feed>
