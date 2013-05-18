@@ -10,7 +10,8 @@
   ],
   "main": "./lib/filings.js",
   "bin": {
-    "filings": "./bin/filings"
+    "filings": "./bin/filings",
+    "flips": "./bin/flips"
   },
   "keywords": [
     "sec",
