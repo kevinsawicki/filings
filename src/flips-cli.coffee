@@ -7,10 +7,10 @@ humanize = require 'humanize-plus'
 
 parseOptions = (args=[]) ->
   options = optimist(args)
-  options.usage('Usage: ceo <cik>')
+  options.usage('Usage: flips <cik>')
   options.demand(1)
   options.alias('h', 'help').describe('h', 'Print this usage message')
-  options.alias('v', 'version').describe('v', 'Print the ceo version')
+  options.alias('v', 'version').describe('v', 'Print the flips version')
   options
 
 fetchTransaction = ({connection, transaction}, callback) ->
