@@ -1,9 +1,24 @@
 fs = require 'fs'
+path = require 'path'
 {DOMParser} = require 'xmldom'
 xpath = require 'xpath'
 
 module.exports =
 class FormFour
+  @fetch: (connection, transaction, callback) ->
+    transactionPath = "/edgar/data/#{transaction.cik}/#{transaction.id}"
+    connection.list transactionPath, (error, files=[]) ->
+      for {name} in files
+        continue unless path.extname(name) is '.xml'
+        connection.getString "#{transactionPath}/#{name}", (error, contents) ->
+          if error?
+            callback(error)
+          else
+            callback(null, new FormFour(contents))
+        return
+
+      callback(new Error("Form 4 file not found in: #{transactionPath}"))
+
   @open: (path, callback) ->
     fs.readFile path, {encoding: 'utf8'}, (error, data) ->
       if error?
