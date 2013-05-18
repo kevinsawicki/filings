@@ -18,5 +18,6 @@ module.exports =
           date = new Date("#{filingDate} 14:30:00 GMT")
           accessionNumber = xpath.select('accession-nunber/text()', transaction).toString()
           id = parseInt(accessionNumber.replace(/-/g, ''))
-          transactions.push({date, cik, id})
+          type = xpath.select('filing-type/text()', transaction).toString()
+          transactions.push({date, cik, id, type})
         callback(null, transactions)
