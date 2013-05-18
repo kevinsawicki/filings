@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+
+require('../lib/flips-cli').run()
