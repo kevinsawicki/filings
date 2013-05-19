@@ -3,3 +3,4 @@ module.exports =
   FormFour: require('./form-four')
   Connection: require('./connection')
   Transactions: require('./transactions')
+  Companies: require('./companies')
