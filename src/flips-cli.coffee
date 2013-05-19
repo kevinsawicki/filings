@@ -3,7 +3,7 @@ path = require 'path'
 optimist = require 'optimist'
 async = require 'async'
 humanize = require 'humanize-plus'
-{Connection, Transactions, FormFour} = require './filings'
+{Names, Connection, Transactions, FormFour} = require './filings'
 
 parseOptions = (args=[]) ->
   options = optimist(args)
@@ -27,7 +27,7 @@ fetchTransaction = ({connection, transaction}, callback) ->
         day = "0#{day}" if date.length is 1
         date = "#{month}/#{day}/#{date.getFullYear()}"
         owner = form.getOwner()
-        console.log date, "$#{humanize.intcomma(Math.floor(profit))} #{owner.name} #{owner.title}"
+        console.log date, "$#{humanize.intcomma(Math.floor(profit))} #{Names.normalize(owner.name)} #{owner.title}"
     callback()
 
 module.exports =

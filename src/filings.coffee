@@ -4,3 +4,4 @@ module.exports =
   Connection: require('./connection')
   Transactions: require('./transactions')
   Companies: require('./companies')
+  Names: require ('./names')
