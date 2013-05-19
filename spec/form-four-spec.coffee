@@ -55,3 +55,16 @@ describe 'Form 4 parsing', ->
       waitsFor -> openedReport?
       runs ->
         expect(openedReport.getProfit()).toBe 3741450
+
+  describe 'getOwner()', ->
+    it 'returns the name, title, and cik of the owner', ->
+      reportPath = path.join(__dirname, 'fixtures', 'orcl-form4-hurd.xml')
+      openedReport = null
+      FormFour.open reportPath, (error, report) ->
+        openedReport = report
+      waitsFor -> openedReport?
+      runs ->
+        {name, title, cik} = openedReport.getOwner()
+        expect(name).toBe 'HURD MARK V'
+        expect(title).toBe 'President'
+        expect(cik).toBe '0001223778'

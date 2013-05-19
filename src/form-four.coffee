@@ -65,6 +65,12 @@ class FormFour
 
     disposals
 
+  getOwner: ->
+    cik = xpath.select('//reportingOwner/reportingOwnerId/rptOwnerCik/text()', @document).toString()
+    name = xpath.select('//reportingOwner/reportingOwnerId/rptOwnerName/text()', @document).toString()
+    title = xpath.select('//reportingOwner/reportingOwnerRelationship/officerTitle/text()', @document).toString()
+    {cik, name, title}
+
   getProfit: ->
     acquiredShares = 0
     acquiredCost = 0
