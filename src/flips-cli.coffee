@@ -24,7 +24,7 @@ fetchTransaction = ({connection, transaction}, callback) ->
         month = "#{date.getMonth() + 1}"
         month = "0#{month}" if month.length is 1
         day = "#{date.getDate()}"
-        day = "0#{day}" if date.length is 1
+        day = "0#{day}" if day.length is 1
         date = "#{month}/#{day}/#{date.getFullYear()}"
         owner = form.getOwner()
         console.log date, "$#{humanize.intcomma(Math.floor(profit))} #{Names.normalize(owner.name)} #{owner.title}"
