@@ -51,6 +51,8 @@
     "ftp": "~0.3.1",
     "async": "~0.2.8",
     "request": "~2.21.0",
-    "humanize-plus": "~1.1.0"
+    "humanize-plus": "~1.1.0",
+    "underscore": "~1.4.4",
+    "season": "~0.9.0"
   }
 }
