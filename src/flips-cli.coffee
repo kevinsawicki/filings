@@ -26,7 +26,8 @@ fetchTransaction = ({connection, transaction}, callback) ->
         day = "#{date.getDate()}"
         day = "0#{day}" if date.length is 1
         date = "#{month}/#{day}/#{date.getFullYear()}"
-        console.log date, "$#{humanize.intcomma(Math.floor(profit))}"
+        owner = form.getOwner()
+        console.log date, "$#{humanize.intcomma(Math.floor(profit))} #{owner.name} #{owner.title}"
     callback()
 
 module.exports =
