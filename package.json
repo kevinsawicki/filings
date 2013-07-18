@@ -31,7 +31,7 @@
   },
   "scripts": {
     "prepublish": "grunt publish",
-    "test": "jasmine-focused --captureExceptions --coffee spec/"
+    "test": "grunt test"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
