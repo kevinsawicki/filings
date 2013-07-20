@@ -67,4 +67,4 @@ Connection.open (connection) ->
           return -1 if company1.symbol < company2.symbol
           return 1 if company1.symbol > company2.symbol
           0
-        CSON.writeFile(path.join(process.cwd(), 'companies.json'), companiesWithSymbols)
+        CSON.writeFile(path.resolve('companies.json'), companiesWithSymbols)

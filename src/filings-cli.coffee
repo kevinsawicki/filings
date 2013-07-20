@@ -21,7 +21,7 @@ module.exports =
     else if command = options.argv._.shift()
       switch command
         when 'profit'
-          reportPath = path.resolve(process.cwd(), commandArgs.shift())
+          reportPath = path.resolve(commandArgs.shift())
           FormFour.open reportPath, (error, formFour) ->
             if error?
               console.error(error)
