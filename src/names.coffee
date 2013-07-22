@@ -1,4 +1,4 @@
-humanize = require 'humanize-plus'
+{capitalizeAll} = require 'humanize-plus'
 
 module.exports =
   normalize: (name='') ->
@@ -7,4 +7,4 @@ module.exports =
     segments.push(segments.shift())
     for segment, index in segments
       segments[index] = "#{segment}." if segment.length is 1
-    humanize.titlecase(segments.join(' '))
+    capitalizeAll(segments.join(' '))
