@@ -12,8 +12,8 @@ class TenK
       else
         callback(null, new TenK(data))
 
-  constructor: (@contents) ->
-    @document = new DOMParser().parseFromString(@contents)
+  constructor: (contents) ->
+    @document = new DOMParser().parseFromString(contents)
 
   select: (element) ->
     nodes = []
@@ -27,7 +27,7 @@ class TenK
       nodes = @select('NetIncomeLossAvailableToCommonStockholdersBasic')
     netIncomeLoss = 0
     for node in nodes
-      nodeYear = dates.getYear(xpath.select("@contextRef", node)[0]?.value)
+      nodeYear = dates.getYear(xpath.select('@contextRef', node)[0]?.value)
       nodeNetIncomeLoss = parseFloat(node.firstChild.data)
       continue if isNaN(nodeNetIncomeLoss)
       netIncomeLoss += nodeNetIncomeLoss if year is nodeYear
