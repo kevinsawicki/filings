@@ -12,6 +12,8 @@ module.exports =
       else
         dom = new DOMParser().parseFromString(body)
         [address] = xpath.select('/feed/company-info/addresses/address[@type=\'business\']', dom)
+        unless address?
+          [address] = xpath.select('/feed/company-info/addresses/address[@type=\'mailing\']', dom)
         street1 = xpath.select('street1/text()', address).toString()
         street2 = xpath.select('street2/text()', address).toString()
         city = xpath.select('city/text()', address).toString()
