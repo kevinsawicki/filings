@@ -11,7 +11,6 @@ parseOptions = (args=[]) ->
     Usage: flips <symbol>
            flips <cik>
   """
-  options.demand(1)
   options.alias('h', 'help').describe('h', 'Print this usage message')
   options.alias('v', 'version').describe('v', 'Print the flips version')
   options
