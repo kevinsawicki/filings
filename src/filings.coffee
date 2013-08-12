@@ -5,3 +5,4 @@ module.exports =
   Transactions: require './transactions'
   Companies: require './companies'
   Names: require './names'
+  Address: require './address'
