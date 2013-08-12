@@ -4,7 +4,8 @@ request = require 'request'
 
 module.exports =
   getAddress: (company, callback) ->
-    url = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=atom&start=0&count=1&CIK=#{company}"
+    baseUrl = process.env.SEC_EDGAR_URL ? 'http://www.sec.gov/cgi-bin/browse-edgar'
+    url = "#{baseUrl}?action=getcompany&output=atom&start=0&count=1&CIK=#{company}"
 
     request url, (error, response, body) ->
       if error?
